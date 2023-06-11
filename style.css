@@ -1,0 +1,16 @@
+body{color: white;
+    background-image: url(fon.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+     }
+    p{color:white;text-align: center;}       
+.kartinki{width: 50%;height: 50%;position:relative;left:49vw}    
+.opisanie{position:relative;right:30vw; top:-70vh;}
+    
+
+
+
+
+    
+
